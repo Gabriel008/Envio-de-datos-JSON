@@ -1,2 +1,4 @@
 # waypointsBeetrack
-Envio de informacion JSON
+Conexión a API
+Transformacion de Data
+Envio de data JSON
